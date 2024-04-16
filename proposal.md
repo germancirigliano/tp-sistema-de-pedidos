@@ -2,7 +2,8 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+* 43855 - Gerster, Cristian (com 305)
+* 43816 - Cirigliano, Germán (com 305)
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -11,7 +12,7 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Aplicación PWA en React/Angular (a decidir) sobre gestión de restaurantes/kioscos para llevar control en ventas tanto para delivery como para el local,permitiendo llevar un control en gastos, ganancias y sueldos de empleados, control de productos y su stock, control de precios de menús (en caso de restaurante). Cada delivery podrá ir marcando cada pedido que va entregando para llevar un seguimiento aproximado de la ubicación del mismo. Gestión de comandas para actualizar pedidos nuevos como ya listos para entrega.
 
 ### Modelo
 ![imagen del modelo]()
